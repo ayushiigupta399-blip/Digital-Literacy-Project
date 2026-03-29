@@ -1,9 +1,9 @@
 # Digital Literacy Project
 
-**Name:** [AYUSHI GUPTA]  
-**Registration Number:** [25BCE11169]  
-**Branch:** [COMPUTER SCIENCE AND ENGINEERING CORE]  
-**Course:** [CSE0001 – Digital Literacy]  
+**Name:** AYUSHI GUPTA   
+**Registration Number:** 25BCE11169      
+**Branch:** COMPUTER SCIENCE AND ENGINEERING CORE      
+**Course:** CSE0001 – Digital Literacy  
 
 ---
 
@@ -62,9 +62,4 @@ In order to help your peers recognize and avoid online threats, a case study des
 
 ##  Learning Outcome
 This project helped me understand how to use some platforms so that I can be digitally literate .Most importantly I learned the differece between participation and true digital literacy ,including ethics and accountability.It helped me understand about how to enhance my profile which is very importance in today's world and simultanously teches us about ransomware ,online theft .Overall I developed critical thinking which is of utmost importance ,itegrity and awareness in creating meaningful digital presence .
-# Digital-Literacy-Project
-# Digital-Literacy-Project
-# Digital-Literacy-Project
-# Digital-Literacy-Project
-# Digital-Literacy-Project
-# Digital-Literacy-Project
+
